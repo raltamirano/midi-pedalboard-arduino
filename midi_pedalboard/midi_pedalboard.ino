@@ -2,6 +2,7 @@
 
 // Pin reading when button is OPEN (not pressed)
 const int OPEN = HIGH;
+
 // Pin reading when button is CLOSED (pressed)
 const int CLOSED = LOW;
 
