@@ -1,3 +1,3 @@
-# midi-pedalboard-arduino
+# mugres-pedalboard-arduino
 
-This app simply sends custom MIDI events to drive the [midi-pedalboard app](https://github.com/raltamirano/midi-pedalboard-java).
+This app simply sends custom MIDI events to drive the [mugres-pedalboard app](https://github.com/raltamirano/mugres-pedalboard)
